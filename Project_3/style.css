@@ -44,12 +44,11 @@ p.title{
 }
 
 .footer{
-    margin:30px;
     column-count: 2;
-    column-gap: 300px;
+    column-gap: 200px;
     background-color:rgba(192, 195, 195, 0.157);
     font-family: montserrat;
-    font-size:11px;
+    font-size:10px;
     font-weight:lighter
 }
 
