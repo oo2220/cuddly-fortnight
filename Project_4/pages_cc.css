@@ -119,79 +119,77 @@ html, body {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+  background-image: url(https://cdn.theculturetrip.com/wp-content/uploads/2017/07/marrakech-1-650x416.jpg);
 }
 .card:nth-child(2):before {
-  background-image: url(Images/Beaches/skeletoncoast.jpg);
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5cc1b3f1e1fe1400019cb83e/1581599542047-PI3IOZJIC1WRG8KINXYZ/ke17ZwdGBToddI8pDm48kNu93_l1Rc0JoXikXAEKHf17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmDJyaVitQ06bkWUY0OMxkmN-bdz7wg8la12Me-ub45vBE5029s6uMXtkNCzVgxK8m/Marrakech-Souk-Guide-Continent-Hop-2.jpg);
 }
 .card:nth-child(3):before {
-  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+  background-image: url(https://www.familyholiday.net/wp-content/uploads/2012/04/Ksar-of-Ait-Ben-Haddou-Morocco_08.jpg);
 }
 .card:nth-child(4):before {
-  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+  background-image: url(https://i.pinimg.com/originals/18/16/1a/18161a8c52593c93a89d8d14096de43e.jpg);
 }
 .card:nth-child(5):before {
-  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+  background-image: url(https://lp-cms-production.imgix.net/2019-06/58bd9585531b2a5a3754fa1687797786-tunis-medina.jpg);
 }
 .card:nth-child(6):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://cdn.tourradar.com/s3/tour/1500x800/119437_a78465.jpg);
 }
 .card:nth-child(7):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://i.pinimg.com/736x/0c/6b/ba/0c6bba7eff62d0b2d0440d17e9c49750.jpg);
 }
 .card:nth-child(8):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://i.pinimg.com/originals/f9/1d/f2/f91df2bacc02ae739a4f3a2111ec8213.png);
 }
 .card:nth-child(9):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://image1.masterfile.com/getImage/ODQxLTAzODcwMDkyZW4uMDAwMDAwMDA=AK$sV9/841-03870092en_Masterfile.jpg);
 }
-.card:nth-child(6):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
-}
+
 .card:nth-child(10):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/74/%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg);
 }
 .card:nth-child(11):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.nachoua.com/Avril-2008/Avril2008_214.JPG);
 }
 .card:nth-child(12):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.ancient-origins.net/sites/default/files/field/image/Amphitheatre-of-El-Djem.jpg);
 }
 .card:nth-child(13):before {
-  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+  background-image: url(https://www.temehu.com/pictures1/p1/cyrene-zeus-temple.jpg);
 }
 .card:nth-child(14):before {
-  background-image: url(Images/Beaches/skeletoncoast.jpg);
+  background-image: url(https://i.pinimg.com/originals/ee/a0/bc/eea0bc5a3efe432e9b3af972da668a4c.png);
 }
 .card:nth-child(15):before {
-  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+  background-image: url(https://whc.unesco.org/uploads/thumbs/site_0019_0001-750-0-20151104170938.jpg);
 }
 .card:nth-child(16):before {
-  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+  background-image: url(https://live.staticflickr.com/8026/7158408756_32be71c6e5_b.jpg);
 }
 .card:nth-child(17):before {
-  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+  background-image: url(http://www.greatzimbabweruins.com/images/Great-Zimbabwe-Ruins.jpg);
 }
 .card:nth-child(18):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://pbs.twimg.com/media/DTDVqieVoAAE2V5.jpg);
 }
 .card:nth-child(19):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.ugandasafaristours.com/wp-content/uploads/2017/07/Kasubi-Tombs.jpg);
 }
 .card:nth-child(20):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://static.livebooks.com/dbade8fa1a584f62a804aa32ef9b3d86/i/e5ce6fae91e24052bf29bec043090ef8/1/4SoifmQp7LJ6yDtMuFY2x/Montrose-Louis_-20.jpg);
 }
 .card:nth-child(21):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.easytravel.co.tz/wp-content/uploads/2018/11/stonetown-zanzibar-1024x682.jpg);
 }
 .card:nth-child(22):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.visitnigerianow.com/wp-content/uploads/2018/08/Sukur-Cultural-Landscape-visitnigerianow-1.jpg);
 }
 .card:nth-child(23):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://static01.nyt.com/images/2016/12/18/travel/18EXPLORER6/18EXPLORER6-jumbo.jpg);
 }
 .card:nth-child(24):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://cdn.britannica.com/54/5354-050-16065303/architecture-Dogon-cliff-village-Bandiagara-escarpment-millet.jpg);
 }
 
 

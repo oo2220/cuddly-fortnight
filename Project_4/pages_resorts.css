@@ -119,79 +119,77 @@ html, body {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+  background-image: url(https://static-new.lhw.com/HotelImages/Final/LW6066/lw6066_46241053_720x450.jpg);
 }
 .card:nth-child(2):before {
-  background-image: url(Images/Beaches/skeletoncoast.jpg);
+  background-image: url(https://media.architecturaldigest.com/photos/598dd8d65f33bd7d13f70acc/4:3/w_1148,h_861,c_limit/ElFenn-resized.png);
 }
 .card:nth-child(3):before {
-  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+  background-image: url(https://www.telegraph.co.uk/content/dam/Travel/Destinations/Africa/Zimbabwe/Singita-Pamushana-Lodge-Main-Pool-with-waiter.jpg);
 }
 .card:nth-child(4):before {
-  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+  background-image: url(https://tongabezi.com/img/home-banner-4-mobile.jpg);
 }
 .card:nth-child(5):before {
-  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+  background-image: url(https://wild-wings-safaris.com/uploads/files/londolozi_varty_superior_chalet_10.jpg);
 }
 .card:nth-child(6):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://angama.com/wp-content/uploads/nf_image/Tent-Trial-2-pnlvl2lmzrzljswi775jc0v8.png);
 }
 .card:nth-child(7):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.andbeyond.com/wp-content/uploads/sites/5/casa-familia-private-deck-guest-area-at-andBeyond-benguerra-island-on-a-mozambique-luxury-beach-resort.jpg);
 }
 .card:nth-child(8):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://cdn.kiwicollection.com/media/property/PR003161/xl/003161-12-mnemba-island-2014-317.jpg?cb=1434653574);
 }
 .card:nth-child(9):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://hotelsandresorts.review/wp-content/uploads/2017/12/1444199222_azura_villa-quilalea-deck-view-from-side.jpg.1024x0-1024x723.jpg);
 }
-.card:nth-child(6):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
-}
+
 .card:nth-child(10):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.travelplusstyle.com/wp-content/gallery/kilindi-zanzibar_glowna/kilindi-sansibar-03.jpg);
 }
 .card:nth-child(11):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.odyssey-travels.com/site/lodges/ras-kutani-a-holiday-guide-to-ras-kutani-tanzania=401052-300.jpg);
 }
 .card:nth-child(12):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://cf.bstatic.com/images/hotel/max1024x768/277/27772733.jpg);
 }
 .card:nth-child(13):before {
-  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+  background-image: url(https://www.north-island.com/wp-content/uploads/2015/05/north_island_villa-intro.jpg);
 }
 .card:nth-child(14):before {
-  background-image: url(Images/Beaches/skeletoncoast.jpg);
+  background-image: url(https://m.fourseasons.com/alt/img-opt/~70.1530.0,0000-88,2500-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/SDI/SDI_129_original.jpg);
 }
 .card:nth-child(15):before {
-  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+  background-image: url(https://www.swissafrican.com/img/camps/southafrica/sa_ellerman_house/ellerman_house_1a.jpg);
 }
 .card:nth-child(16):before {
-  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+  background-image: url(https://victoria-falls-safari-lodge.com/wp-content/uploads/2018/08/Victoria-Falls-Safari-Club-Restaurant.jpg);
 }
 .card:nth-child(17):before {
-  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+  background-image: url(https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/bazdreisinger/files/2017/02/Persian-view-1200x800.jpg?width=960);
 }
 .card:nth-child(18):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://icom-royalchundu-production.s3-eu-west-1.amazonaws.com/royalchundu/filer_public_thumbnails/filer_public/7a/10/7a10d699-bb88-45d8-9841-3a96ea70dbb4/lodges-banner.jpg__1920x1080_q85_crop_subsampling-2_upscale.jpg);
 }
 .card:nth-child(19):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.south-african-lodges.com/media/little-vumbura-deck-aerial.jpg);
 }
 .card:nth-child(20):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/08/5a/8f/62/singita-ebony-lodge.jpg);
 }
 .card:nth-child(21):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.andbeyond.com/wp-content/uploads/sites/5/Matetsi-River-Lodge-Swimming-Pool1.jpg);
 }
 .card:nth-child(22):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.luxuryexplorer.com/LEMediaLibrary/LuxuryExplorer/images/hotels/Morocco/Amanjena/818x818/ajena_general_resort_bassin_view_1117_818.jpg);
 }
 .card:nth-child(23):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/12/61/5a/b7/the-main-area-at-sasaab.jpg);
 }
 .card:nth-child(24):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(http://www.sanctuaryretreats.com/media/1183/1.jpg?width=1680&height=763&mode=crop&anchor=middle);
 }
 
 

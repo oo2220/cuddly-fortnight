@@ -119,79 +119,77 @@ html, body {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+  background-image: url(https://www.serengetiparktanzania.com/wp-content/uploads/2020/11/10-Facts-About-Serengeti-National-Park.jpg);
 }
 .card:nth-child(2):before {
-  background-image: url(Images/Beaches/skeletoncoast.jpg);
+  background-image: url(https://www.discoverafrica.com/images/africa-etosha-2__1920x864.jpg);
 }
 .card:nth-child(3):before {
-  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+  background-image: url(https://cdn.kimkim.com/files/a/images/765a281a2d2581da1c9eb9f5e13de3d715e2d083/big-d0c69e71702d8c4a455e5bff2648ee6b.jpg);
 }
 .card:nth-child(4):before {
-  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+  background-image: url(https://www.rwandawildlifesafari.com/wp-content/uploads/2021/03/Lake-Nakuru-National-Park.jpg);
 }
 .card:nth-child(5):before {
-  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+  background-image: url(https://live.staticflickr.com/751/22552135886_aeb62a7293_b.jpg);
 }
 .card:nth-child(6):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.afrik21.africa/wp-content/uploads/2018/07/Reserve-Ngorongoro-1-800x400.jpg);
 }
 .card:nth-child(7):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.andbeyond.com/wp-content/uploads/sites/5/elephant-bull-front-of-kilimanjaro-amboseli.jpg);
 }
 .card:nth-child(8):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.jambo-kilimanjaro.com/wp-content/uploads/2019/01/safari-through-the-national-parks-tarangire-serengeti-ngorongoro-lake-manyara-01-1-1360x900.jpg);
 }
 .card:nth-child(9):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a2/Gombe_Stream_NP_Mutter_und_Kind.jpg);
 }
-.card:nth-child(6):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
-}
+
 .card:nth-child(10):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://i.pinimg.com/originals/3b/b7/e9/3bb7e98b58d0a9f03fe2690c6753a666.jpg);
 }
 .card:nth-child(11):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://zaaneafrica.com/images/destinations/Djoudj.jpg);
 }
 .card:nth-child(12):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.virungaparkcongo.com/wp-content/uploads/2019/03/lowland-gorilla-750x450.jpg);
 }
 .card:nth-child(13):before {
-  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+  background-image: url(https://namibian.org/img/cms/lodges/2_110_crop1920x900.jpg);
 }
 .card:nth-child(14):before {
-  background-image: url(Images/Beaches/skeletoncoast.jpg);
+  background-image: url(https://www.andbeyond.com/wp-content/uploads/sites/5/Makgadikgadi-Pans-in-Botswana.jpg);
 }
 .card:nth-child(15):before {
-  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+  background-image: url(https://cdn.britannica.com/99/1499-050-E90AE326/Herd-impalas-Kenya-Nairobi-National-Park.jpg);
 }
 .card:nth-child(16):before {
-  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+  background-image: url(https://i.pinimg.com/564x/c8/a9/8d/c8a98dc3590aa70b568a56d750f814f3.jpg);
 }
 .card:nth-child(17):before {
-  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+  background-image: url(https://realmafricasafaris.com/wp-content/uploads/2020/08/Filming-in-Akagera-National-Park-e1597587467695-1200x600.jpg);
 }
 .card:nth-child(18):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://namibiatourism.com.na/uploads/page_images/khaudum.jpg);
 }
 .card:nth-child(19):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(http://traveltoalgeria.weebly.com/uploads/1/0/0/7/10074251/9597800.jpg?514);
 }
 .card:nth-child(20):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://i.pinimg.com/originals/59/2e/c3/592ec3263f7ebb0aa1e81a6ac5dc5cab.jpg);
 }
 .card:nth-child(21):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.bellinghamsafaris.com/wp-content/uploads/2019/06/bfd5b73a-0fd5-4913-b744-dc3facf5aeae-1024x682.jpg);
 }
 .card:nth-child(22):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://www.easyvoyage.com/images/attractions/808/960x384/5499.jpg);
 }
 .card:nth-child(23):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://i.pinimg.com/originals/78/2f/74/782f74197435f797a29219cc64f289df.jpg);
 }
 .card:nth-child(24):before {
-  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fish_River_Canyon_Namibia.jpg/1200px-Fish_River_Canyon_Namibia.jpg);
 }
 
 
