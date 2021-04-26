@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body, 
+html{
+  font-family: 'Raleway', sans-serif;  
+}
+
+nav {
+  height: 60px;
+}
+
+ul.container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  list-style: none;
+  margin: 0;
+  line-height: 60px;
+}
+
+
+.container a {
+  text-decoration: none;
+  color: #000000;
+}
+
+h1{
+  font-family: "Great Vibes";
+  text-align:center;
+  font-size: 60px;
+}
+
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:2%;
+}
+html, body, main {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+
+.page-content {
+  display: grid;
+  grid-gap: 1rem;
+  padding: 1rem;
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: var(--font-sans);
+}
+@media (min-width: 600px) {
+  .page-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 800px) {
+  .page-content {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.card {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+  color: whitesmoke;
+  background-color: whitesmoke;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 2px 2px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1), 0 8px 8px rgba(0, 0, 0, 0.1), 0 16px 16px rgba(0, 0, 0, 0.1);
+}
+@media (min-width: 600px) {
+  .card {
+    height: 350px;
+  }
+}
+.card:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 110%;
+  background-size: cover;
+  background-position: 0 0;
+  transition: transform calc(var(--d) * 1.5) var(--e);
+  pointer-events: none;
+}
+.card:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 200%;
+  pointer-events: none;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.009) 11.7%, rgba(0, 0, 0, 0.034) 22.1%, rgba(0, 0, 0, 0.072) 31.2%, rgba(0, 0, 0, 0.123) 39.4%, rgba(0, 0, 0, 0.182) 46.6%, rgba(0, 0, 0, 0.249) 53.1%, rgba(0, 0, 0, 0.32) 58.9%, rgba(0, 0, 0, 0.394) 64.3%, rgba(0, 0, 0, 0.468) 69.3%, rgba(0, 0, 0, 0.54) 74.1%, rgba(0, 0, 0, 0.607) 78.8%, rgba(0, 0, 0, 0.668) 83.6%, rgba(0, 0, 0, 0.721) 88.7%, rgba(0, 0, 0, 0.762) 94.1%, rgba(0, 0, 0, 0.79) 100%);
+  transform: translateY(-50%);
+  transition: transform calc(var(--d) * 2) var(--e);
+}
+.card:nth-child(1):before {
+  background-image: url(Images/Beaches/Lamu\ Archipelago\,\ Kenya.jpg);
+}
+.card:nth-child(2):before {
+  background-image: url(Images/Beaches/skeletoncoast.jpg);
+}
+.card:nth-child(3):before {
+  background-image: url(Images/Beaches/Île\ Sainte-Marie\,\ Madagascar.jpg);
+}
+.card:nth-child(4):before {
+  background-image: url(Images/Beaches/capetown_southafrica.jpg);
+}
+.card:nth-child(5):before {
+  background-image: url(Images/Beaches/Mnemba\ Island\,\ Tanzania.jpg);
+}
+.card:nth-child(6):before {
+  background-image: url(Images/Beaches/Trou-aux-Biches\,\ Mauritius.jpg);
+}
+.card:nth-child(7):before {
+  background-image: url(https://www.discoversaotomeeprincipe.com/wp-content/uploads/2015/05/bomBridge-from-restaurantbom.jpg);
+}
+.card:nth-child(8):before {
+  background-image: url(https://i1.wp.com/johnnyafrica.com/wp-content/uploads/2015/01/20141021_1648351.jpg?resize=1280%2C720&ssl=1);
+}
+.card:nth-child(9):before {
+  background-image: url(https://a4.pbase.com/v3/31/481331/2/48192595.IMG_4909.jpg);
+}
+.card:nth-child(6):before {
+  background-image: url(https://preview.redd.it/5wt0jkko3o561.jpg?width=1908&format=pjpg&auto=webp&s=f2ee751efdf158c625b6f934467e530de352f6eb);
+}
+.card:nth-child(10):before {
+  background-image: url(https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0d/57/5b/af/paradisiac-kite-spot.jpg);
+}
+.card:nth-child(11):before {
+  background-image: url(http://travelerslittletreasures.com/wp-content/uploads/2016/07/b28-670x503.jpg);
+}
+.card:nth-child(12):before {
+  background-image: url(https://i.pinimg.com/originals/f5/e3/f6/f5e3f69aa045ae2b753e519b7e186efb.jpg);
+}
+.card:nth-child(13):before {
+  background-image: url(https://www.seyvillas.com/img/beaches/43/1010x568_75/mahe-anse-soleil-01.jpg);
+}
+.card:nth-child(14):before {
+  background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/9c/c7/41/belle-mare-tours.jpg?w=1000&h=600&s=1);
+}
+.card:nth-child(15):before {
+  background-image: url(https://img.ev.mu/images/attractions/3149/960x640/16141.jpg);
+}
+.card:nth-child(16):before {
+  background-image: url(https://www.independent.ie/incoming/843e4/36763567.ece/AUTOCROP/w620/Depositphotos_166085604_xl-2015.jpg);
+}
+.card:nth-child(17):before {
+  background-image: url(https://youimg1.tripcdn.com/target/100i1f000001gp42q8B7D_C_750_500.jpg?proc=source%2Ftrip);
+}
+.card:nth-child(18):before {
+  background-image: url(https://www.odyssey-travels.com/site/lodges/pongwe-beach-hotel=401071-310.jpg);
+}
+.card:nth-child(19):before {
+  background-image: url(https://africawanderlust.com/wp-content/uploads/2020/02/Anantara-Medjumbe-Island-Resort-overview.jpg);
+}
+.card:nth-child(20):before {
+  background-image: url(https://www.travelingeast.com/wp-content/uploads/2012/11/Depositphotos_20018993_xl-2015-scaled-1920x1280.jpg);
+}
+.card:nth-child(21):before {
+  background-image: url(https://i.pinimg.com/originals/d9/ac/da/d9acda622d419bffddc32cba674c29aa.jpg);
+}
+.card:nth-child(22):before {
+  background-image: url(https://pix10.agoda.net/geo/city/512891/1_512891_02.jpg?s=1920x822);
+}
+.card:nth-child(23):before {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/23/Beach_Ile_Aux_Nattes.jpg);
+}
+.card:nth-child(24):before {
+  background-image: url(https://nomadandinlove.com/wp-content/uploads/is-it-safe-to-travel-to-south-africa.jpg);
+}
+
+
+
+.content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+  transition: transform var(--d) var(--e);
+  z-index: 1;
+}
+.content > * + * {
+  margin-top: 1rem;
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.copy {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.btn {
+  cursor: pointer;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.65rem;
+  font-weight: bold;
+  letter-spacing: 0.025rem;
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+  border: none;
+}
+.btn:hover {
+  background-color: #0d0d0d;
+}
+.btn:focus {
+  outline: 1px dashed yellow;
+  outline-offset: 3px;
+}
+
+@media (hover: hover) and (min-width: 600px) {
+  .card:after {
+    transform: translateY(0);
+  }
+
+  .content {
+    transform: translateY(calc(100% - 4.5rem));
+  }
+  .content > *:not(.title) {
+    opacity: 0;
+    transform: translateY(1rem);
+    transition: transform var(--d) var(--e), opacity var(--d) var(--e);
+  }
+
+  .card:hover,
+.card:focus-within {
+    align-items: center;
+  }
+  .card:hover:before,
+.card:focus-within:before {
+    transform: translateY(-4%);
+  }
+  .card:hover:after,
+.card:focus-within:after {
+    transform: translateY(-50%);
+  }
+  .card:hover .content,
+.card:focus-within .content {
+    transform: translateY(0);
+  }
+  .card:hover .content > *:not(.title),
+.card:focus-within .content > *:not(.title) {
+    opacity: 1;
+    transform: translateY(0);
+    transition-delay: calc(var(--d) / 8);
+  }
+
+  .card:focus-within:before, .card:focus-within:after,
+.card:focus-within .content,
+.card:focus-within .content > *:not(.title) {
+    transition-duration: 0s;
+  }
+}
+
+.footer{
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+}
+
+ 
