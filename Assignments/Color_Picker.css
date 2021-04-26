@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Open+Sans&display=swap");
+
+body {
+    margin: 25em;
+    padding:0 ;
+    font-family: "Open Sans", sans-serif;
+    justify-content: center;
+    text-align:center;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  #switcher .button{
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: flex-end;
+      justify-content: center;
+  }
+  h1 {
+    line-height: 1.25;
+    margin: 2em 0 0;
+  }
+  p {
+    margin: 0.5em 0;
+  }
+  
+  #switcher {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  #switcher li {
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin: 0 15px 15px 0;
+    border-radius: 30px;
+    border: 3px solid black;
+  }
+  
+
+  
+  #redButton {
+    background-color: rgb(252, 40, 40);
+  }
+  
+  #pinkButton {
+    background: rgb(241, 179, 179);
+  }
+  
+  #magentaButton {
+    background: rgb(255, 0, 170);
+  }
+  
+  #orangeButton {
+    background: rgb(255, 136, 0);
+  }
+  
+
+  
+  .red-theme {
+    background-color: rgb(252, 40, 40);
+  }
+  
+  .pink-theme {
+    background: rgb(241, 179, 179);
+  }
+  
+  .magenta-theme {
+    background: rgb(255, 0, 170);
+  }
+  
+  .orange-theme {
+    background: rgb(255, 136, 0);
+  
+    color: white;
+  }
+  

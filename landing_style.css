@@ -25,4 +25,7 @@ ul{
 
 li{
     text-align: center;
+    list-style-type: none;
+    font-family: "Cormorant Garamond";
+    color: rgb(126, 156, 177);
 }
